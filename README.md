@@ -40,8 +40,8 @@
 
 ## 🏫 Education  
 - 🎓 Master’s in Data Science & Statistics, Graphic Era Hill University (2023-2025)  
-- 🎓 PG Certification in Data Science & AI, IIT Roorkee  
-- 🎓 B.Sc. in Physics (Hons.), Uttaranchal University  
+- 🎓 PG Certification in Data Science & AI, IIT Roorkee  (https://tih.iitr.ac.in/certificate/intellipaat/IPTIH2501426.JPG)
+- 🎓 B.Sc. in Physics (Hons.), Uttaranchal University (2019-2022)
 
 ---
 
